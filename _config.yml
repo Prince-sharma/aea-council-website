@@ -9,7 +9,8 @@ url: "https://prince-sharma.github.io/aea-council-website"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+#
+baseurl: "/aea-council-website"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
